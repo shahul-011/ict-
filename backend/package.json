@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no te1st specified\" && exit ",
+    "start": "nodemon index.js"
+  },
+  "author": "shahul",
+  "license": "ISC",
+  "dependencies": {
+    "@ajayos/nodemon": "^0.0.5",
+    "express": "^4.18.2"
+  }
+}
